@@ -1,0 +1,1 @@
+-- @mssql Chat Query Editor (DESKTOP-G4H3L4Q\MSSQLSERVER01:agenda:undefined)
